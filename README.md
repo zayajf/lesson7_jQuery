@@ -13,8 +13,7 @@ Jonathon Zayas
 This lesson introduces the jQuery framework, which is a JavaScript library.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://zayajf.github.io/lesson7_jQuery/
 
 ### Lessons Learned in the Assignment:
 1. Learned how to call jquery 

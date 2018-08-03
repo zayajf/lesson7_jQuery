@@ -35,4 +35,5 @@ $("h3").hover(function() {
         $(this).css("background-color", "pink");
 });
 
+//hover() will trigger display method each time mouse hovers over header 
 $("h3").hover(display2); 
